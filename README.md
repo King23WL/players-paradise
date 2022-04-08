@@ -1,10 +1,10 @@
 # Players Paradise
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
 
-<br>
-  ## Description
-  An e-commerce web application let users sell second-hand PS4/PS5 game disks. The app is built based on MERN (MongoDB, Express, React, NodeJS) stack.
+## Description
+
+An e-commerce web application let users sell second-hand PS4/PS5 game disks. The app is built based on MERN (MongoDB, Express, React, NodeJS) stack.
 
 ## Table of Contents
 
@@ -21,6 +21,8 @@ To install the necessary dependencies, run the following command:<br>
 <code>npm install && npm start | cd frontend && npm install && npm start</code>
 
 ## Usage
+
+![Screenshot](/frontend/public/images/Deploy.png)
 
 ## DeployedLink
 
