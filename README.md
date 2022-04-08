@@ -1,36 +1,38 @@
 # Players Paradise
-  ![badge](https://img.shields.io/badge/license--brightgreen)<br>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<br>
   ## Description
-  A e-commerce web application let users sell second-hand PS4/PS5 game disks. The app is built based on MERN stack.
+  An e-commerce web application let users sell second-hand PS4/PS5 game disks. The app is built based on MERN (MongoDB, Express, React, NodeJS) stack.
 
-  ## Table of Contents
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [DeployedLink](#DeployedLink)
-  * [License](#License)
-  
- 
-  * [Questions](#Questions)
+## Table of Contents
 
-  ## Installation
-  To install the necessary dependencies, run the following command:<br>
-  <code>npm install && npm start | cd frontend && npm install && npm start</code>
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [DeployedLink](#DeployedLink)
+- [License](#License)
 
-  ## Usage
-  
+- [Questions](#Questions)
 
-  ## DeployedLink
-  https://players-paradise1.herokuapp.com/
+## Installation
 
-  ## License
-  ![badge](https://img.shields.io/badge/license--brightgreen)
+To install the necessary dependencies, run the following command:<br>
+<code>npm install && npm start | cd frontend && npm install && npm start</code>
 
- 
+## Usage
 
+## DeployedLink
 
+https://players-paradise1.herokuapp.com/
 
-  ## Questions
-  For more information, please contact me: <br>
-  
-  Email: xuanan.ian23y@gmail.com   
-  </br>GitHub: [King23WL](https://github.com/King23WL)
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Questions
+
+For more information, please contact me: <br>
+
+Email: xuanan.ian23y@gmail.com  
+ </br>GitHub: [King23WL](https://github.com/King23WL)
